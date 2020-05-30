@@ -1,0 +1,10 @@
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\bin\Debug\QuickQuiz.exe.config
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\bin\Debug\QuickQuiz.exe
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\bin\Debug\QuickQuiz.pdb
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.FormQuiz.resources
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.Properties.Resources.resources
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.csproj.GenerateResource.Cache
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.exe
+C:\Users\Stalin\source\repos\QuickQuiz\QuickQuiz\obj\Debug\QuickQuiz.pdb
